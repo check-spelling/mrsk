@@ -863,7 +863,7 @@ Message: Automatic deploy lock
 You can also manually acquire and release the lock
 
 ```
-mrsk lock acquire -m "Doing maintanence"
+mrsk lock acquire -m "Doing maintenance"
 ```
 
 ```
